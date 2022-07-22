@@ -1,0 +1,26 @@
+.badge{
+    background-color: tomato;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
+
+.screen-header__icons{
+    display: flex;
+}
+
+.badge-finds{
+    background-color: tomato;
+    width: 7px;
+    height: 7px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 600;
+    
+}
